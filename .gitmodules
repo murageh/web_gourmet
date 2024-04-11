@@ -1,0 +1,6 @@
+[submodule "web_gourmet_backend"]
+	path = web_gourmet_backend
+	url = https://github.com/murageh/web_gourmet_backend.git
+[submodule "web_gourmet_frontend"]
+	path = web_gourmet_frontend
+	url = https://github.com/murageh/web_gourmet_frontend.git
